@@ -1,0 +1,2 @@
+# 14-332-472-01-ROBOTICS-COMP-VISION-Classify-ImageNet-classes-with-ResNet50-
+Classifying ImageNet classes with ResNet50 Using pytorch by setting up the pre-trained network. Start by obtaining 10 images that are similar to Imagenet classes and classifying them. Then choose 10 images from 5 different classes (2 images/class). Report the confusion matrix, the accuracy, the f-score, precision and recall of the classifier.
